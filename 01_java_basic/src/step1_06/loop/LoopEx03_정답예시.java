@@ -10,6 +10,9 @@ public class LoopEx03_정답예시 {
 		// 문제1) 1~5까지의 합 출력
 		// 정답 1) 15
 		
+		
+		
+		
 		int tot = 0;
 		int i = 1;
 		while (i <= 5) {
