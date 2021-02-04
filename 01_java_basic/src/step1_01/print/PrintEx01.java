@@ -1,7 +1,6 @@
 package step1_01.print;  // 1) 패키지 선언문은 '항상' 첫줄에 시작한다.
 
 import java.util.Scanner;
-// chgeck dsajlfjasoifjaosdijfoiadsjfoiadsjf
 // 2) 주석 (comment) : 설명문을 작성하기 위한 방법으로 프로그램의 실행에 영향을 미치지 않는다.
 // 2 -1) 라인주석 : 한줄 주석
 /*
