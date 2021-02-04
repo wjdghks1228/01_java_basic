@@ -1,7 +1,7 @@
 package step1_06.loop;
 
 /*
- * 
+ * check chec k chec k check 
  * 
  *  # 반복문 whlie
  *  
