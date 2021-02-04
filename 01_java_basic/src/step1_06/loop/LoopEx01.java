@@ -2,6 +2,7 @@ package step1_06.loop;
 
 /*
  * 
+ * 
  *  # 반복문 whlie
  *  
  *  [ 형식 ]

@@ -16,7 +16,8 @@ public class LoopEx02_문제 {
 		}
 		
 		System.out.println();
-		
+		System.out.println();
+		System.out.println();
 		
 		
 		i = 10;
